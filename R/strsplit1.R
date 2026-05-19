@@ -1,5 +1,5 @@
-#' @param x description
-#' @param split description
+#' @param x inputted string
+#' @param split string to split by
 #'
 #' @export
 
